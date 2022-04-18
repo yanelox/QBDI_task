@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/126A613F6A6120A9/linux_work/QBDI_task/task1.cpp
+assert.h
+-
+cstdint
+-
+cstdlib
+-
+cstring
+-
+iomanip
+-
+iostream
+-
+fstream
+-
+QBDI.h
+-
+set
+-
+

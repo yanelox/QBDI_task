@@ -1,3 +1,7 @@
-access to 0x94395503996848 buffer, size: 40
-access to 0x94395503996848 buffer, size: 40
-access to 0x94395503996848 buffer, size: 40
+(source) allocated 40 bytes, address: 0x5616f2014b50
+(sink) data: 0
+(sink) data: 1
+(sink) data: 2
+(sink) data: 3
+(sink) data: 4
+(sink) data: 2
