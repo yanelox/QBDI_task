@@ -1,3 +1,0 @@
-/mnt/126A613F6A6120A9/linux_work/QBDI_task/build/CMakeFiles/rebuild_cache.dir
-/mnt/126A613F6A6120A9/linux_work/QBDI_task/build/CMakeFiles/edit_cache.dir
-/mnt/126A613F6A6120A9/linux_work/QBDI_task/build/CMakeFiles/task1.dir
