@@ -57,8 +57,10 @@ int TEST1()
 
     T* buf = source (size);
 
+    T start = static_cast <T> (0);
+
     for (size_t i = 0; i < size; ++i) //to follow which elements leak, all elements have value equal to index
-        buf[i] = i;
+        buf[i] = start++;
 
     // case 1
     sink(buf[0]); // Leak
